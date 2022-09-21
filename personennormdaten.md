@@ -31,9 +31,11 @@ Vgl. etwa den Eintrag zu [Anna Maria van Schurman (ID 500017433)](http://vocab.g
 
 ## The Virtual International Authority File (VIAF)
 
-Der VIAF aggregiert zahlreiche Normdatenbanken.
+Der VIAF aggregiert zahlreiche Normdatenbanken und stellt somit eine Meta-Normdatenbank dar.
 Mit einem VIAF-Datensatz sind also Datensätze aus einer oder mehrerer Normdatenbanken verknüpft.
+VIAF ist deutlich umfassender als die jeweiligen einzelnen Normdatenbanken, wobei die Datenqualität von den jeweiligen Datenquellen abhängt.
 
-- Getty Thesaurus of Geographic Names (TGN): Orte, Ortstypen etc.
+## Wikidata
 
-Development of the Getty Vocabularies: AAT, TGN, ULAN, and CONA
+Wikidata spielt auch für Personennormdaten eine wichtige Rolle.
+Für eine ausführlicherer Behandlung von Wikidata vgl. das entsprechende eigene Kapitel.
