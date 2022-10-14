@@ -36,3 +36,18 @@ Der Link für einen Taschenrechner (*desktop calculator*, AAT-ID: 300424523) ist
 <http://vocab.getty.edu/page/aat/300424523>
 
 
+Der AAT ist besonders ist speziell auf die Herausforderungen der Dokumentation von Kunst und Architektur ausgerichtet.
+ 
+## Benutzung des AAT
+
+Die Begriffssuche im [AAT] über zwei unterschiedliche Wege.
+
+Eine **Suchmaske** erlaubt die Suche nach Bezeichnern bzw. IDs oder nach Wörtern im Anmerkungsteil.
+
+![](images/aat_suche.png)
+
+Über den Link ["Browse the AAT hierarchies"](https://www.getty.edu/vow/AATHierarchy?find=&logic=AND&note=&english=N&subjectid=300000000) gelangt man zu einem systematischen Einstieg über die AAT-Hierarchie (vgl. oben).
+Um tiefer in der Hierarchie hinabzusteigen, muss auf dieses Symbol am linken Seitenrand geklickt werden: ![](https://www.getty.edu/global/images/global_hierarchy.gif). 
+Ein Klick auf den Term selbst öffnet den entsprechenden Eintrag.
+
+Wenn ein Element aus dem AAT in einer Objektbeschreibung verwendet wird, sollte stets der Datensatz-URI (<http://vocab.getty.edu/aat/ID>) verwendet werden.

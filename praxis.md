@@ -11,7 +11,9 @@ Diskussionen z.B. im Kontext von Kolonialismus, Rassismus und Sexismus finden ih
 Kontrollierte Vokabulare steigern die Nachnutzbarkeit der Daten, indem sie eindeutig auf von einer Autorität definierte und kuratierte Datensätze referieren.
 
 Kontrollierte Vokabulare können in der Praxis auch als Einschränkung empfunden werden, wenn sie nicht den im jeweiligen Fall angebracht erscheinenden Begriff zur Verfügung stellen.
-
+Sollte sich ein verwendetes kontrolliertes Vokabular wiederholt als inadäquat erweisen, könnte sich die Suche nach einem besser geeigneten Vokabular anbieten.
 
 -> Angaben zu kontrollierten Vokabularen aus Handbuch
--> 
+->  Ernst Ludwig Kirchner: Zille und Beiboot (1910), Benutzername: 30761858@bestellung
+
+
